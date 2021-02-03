@@ -1,3 +1,4 @@
 # focalpack_example
 DISCLAIMER: this is not a official repo, anything can change at anytime
-This is not apart of Continuum Graphics LLC.
+This repo is not operated by, or affiliated with Continuum Graphics LLC.
+
