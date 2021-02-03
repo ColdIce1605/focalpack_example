@@ -1,5 +1,6 @@
 [
     {
-        "_comment": "don't know what this could be"
+        "_comment": "don't know what this could be, I do know what it can hold",
+        "storage": "null"
     }
 ]
