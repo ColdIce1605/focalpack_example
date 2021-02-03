@@ -1,0 +1,9 @@
+[
+    {
+        "_comment": "could be correct could be incorrect as this was basiced off on optifine, the names are most likely inaccurate",
+        
+        "name": "custom_uniform", 
+        "type": "float",
+        "uniform": "0.0"
+    }
+]

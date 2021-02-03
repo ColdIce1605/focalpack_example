@@ -1,0 +1,20 @@
+[
+    {
+      "legacyName": "gbuffersTerrain",
+      "renderPass": "gbuffers_terrain",
+      "drawBuffers": [
+        "gbufferTex"
+      ]
+    },
+    {
+      "rasterName": "renderPass",
+      "shaders": {
+        "vertex": "/shaders/program/render.vert",
+        "fragment": "/shaders/program/render.frag"
+      },
+      "geometryType": "fullscreenQuad",
+      "drawBuffers": [
+        "imageTex"
+      ]
+    }
+  ]
