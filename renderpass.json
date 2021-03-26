@@ -17,4 +17,20 @@
         "imageTex"
       ]
     }
+    {
+      "computeName": "example",
+
+      "shaders": {
+        "compute": "/shaders/program/example.comp"
+      },
+
+      "dispatchResolutionX": "windowWidth",
+      "dispatchResolutionY": "windowHeight",
+      "dispatchResolutionZ": "1",
+      "downscaleFactor": "2",
+
+      "outputImages": [
+        "example"
+      ]
+    }
   ]
